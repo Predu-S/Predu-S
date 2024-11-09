@@ -1,6 +1,6 @@
 # Predu-S
 
-* Me chamo Pedro Lucas da Silva Soares, desenvolvedor backend.
+* Me chamo Pedro Lucas da Silva Soares, desenvolvedor backend;
 * Aprendendo C#, ReactJS e Python;
 * Bacherelando em Ciências e Tecnologia (UFRN);
 * Tecnólogo em Informática para internet (IMD).
